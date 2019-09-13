@@ -1,0 +1,2 @@
+# smartdogdata
+database test
